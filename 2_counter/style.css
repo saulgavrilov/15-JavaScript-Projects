@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background: #f1f5f8;
+  color: #10121b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  outline: none;
+  border: none;
+  background: #10121b;
+  color: #ffffff;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.container h1 {
+  font-size: 6vmin;
+}
+
+#value {
+  margin: 1rem 0;
+  font-size: 4vmin;
+}

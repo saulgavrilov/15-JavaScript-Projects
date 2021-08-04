@@ -3,3 +3,5 @@
 15 projects using plain JavaScript without frameworks.
 
 ### 1. Color Flipper
+
+### 2. Counter
