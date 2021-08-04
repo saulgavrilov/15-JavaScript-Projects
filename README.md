@@ -1,6 +1,6 @@
-# 15 JavaScript Projects
+# JavaScript Small Projects
 
-15 projects using plain JavaScript without frameworks.
+using plain JavaScript without frameworks.
 
 ### 1. Color Flipper
 
