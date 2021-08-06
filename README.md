@@ -9,3 +9,5 @@ using plain JavaScript without frameworks.
 ### 3. Reviews
 
 ### 4. Random Choice Picker
+
+### 5. Content Placeholder
