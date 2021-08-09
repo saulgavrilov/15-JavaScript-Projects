@@ -13,3 +13,5 @@ using plain JavaScript without frameworks.
 ### 5. Content Placeholder
 
 ### 6. Image Search
+
+### 7. Bouncing DVD Logo
