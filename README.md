@@ -15,3 +15,5 @@ using plain JavaScript without frameworks.
 ### 6. Image Search
 
 ### 7. Bouncing DVD Logo
+
+### 8. Infinite Scrolling
