@@ -2,16 +2,16 @@
 
 using plain JavaScript without frameworks.
 
-| Project Name         | CodePen                      |
-| :------------------- | :--------------------------- |
-| Color Flipper        | [View][color_flipper]        |
-| Counter              | [View][counter]              |
-| Reviews              |                              |
-| Random Choice Picker | [View][random_choice_picker] |
-| Content Placeholder  | [View][content_placeholder]  |
-| Image Search         |                              |
-| Bouncing DVD Logo    | [View][bouncing_dvd_logo]    |
-| Infinite Scrolling   | [View][infinite_scrolling]   |
+| Project Name         | Responsive | CodePen                      |
+| :------------------- | :--------- | :--------------------------- |
+| Color Flipper        | Yes        | [View][color_flipper]        |
+| Counter              | Yes        | [View][counter]              |
+| Reviews              | Yes        |
+| Random Choice Picker |            | [View][random_choice_picker] |
+| Content Placeholder  | Yes        | [View][content_placeholder]  |
+| Image Search         | Yes        |
+| Bouncing DVD Logo    | No         | [View][bouncing_dvd_logo]    |
+| Infinite Scrolling   | Yes        | [View][infinite_scrolling]   |
 
 [color_flipper]: https://codepen.io/saul-gavrilov/pen/eYWxVOj
 [counter]: https://codepen.io/saul-gavrilov/pen/NWjoyxa

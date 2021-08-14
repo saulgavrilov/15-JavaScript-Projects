@@ -9,8 +9,6 @@ getPost();
 window.addEventListener("scroll", () => {
   const { scrollTop, scrollHeight, clientHeight } = document.documentElement;
 
-  console.log({ scrollTop, scrollHeight, clientHeight });
-
   if (clientHeight + scrollTop >= scrollHeight - 5) {
     showLoading(true);
     setTimeout(getPost, 1000);
